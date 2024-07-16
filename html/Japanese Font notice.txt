@@ -1,0 +1,3 @@
+The Japanese font used in this version of the CodeGenerator is a modified version of IPAexGothic with large parts of its character set removed. This text is placed here to comply with the licensing for the font.
+
+The original font can be obtained at https://moji.or.jp/ipafont/ipaex00401/ under "IPAexゴシック(Ver.004.01)".
