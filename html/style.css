@@ -9,17 +9,18 @@ select {
 }
 
 @font-face {
-  font-family: 'Consolas';
-  src: url('./consola.ttf') format('truetype');
+  font-family: 'Source Code Pro';
+  src: url('./SourceCodePro-Regular.ttf.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'Yu Gothic';
-  src: url('./YuGothic.ttf') format('truetype');
+  font-family: 'CodeGenJP';
+  src: url('./CodeGenJP.woff2') format('woff2');
 }
 
 textarea {
-    font-family: 'Consolas', 'Yu Gothic', 'Courier New';
+    font-family: 'Source Code Pro', monospace, 'CodeGenJP';
+    font-variant: slashed-zero;
     margin: 10px 10px;
     height: 100%;
     min-height: 400px;
