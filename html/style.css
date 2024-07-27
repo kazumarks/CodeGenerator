@@ -13,13 +13,8 @@ select {
   src: url('./SourceCodePro-Regular.ttf.woff2') format('woff2');
 }
 
-@font-face {
-  font-family: 'CodeGenJP';
-  src: url('./CodeGenJP.woff2') format('woff2');
-}
-
 textarea {
-    font-family: 'Source Code Pro', monospace, 'CodeGenJP';
+    font-family: 'Source Code Pro', 'Consolas', monospace;
     font-variant: slashed-zero;
     margin: 10px 10px;
     height: 100%;
